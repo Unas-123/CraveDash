@@ -4,7 +4,7 @@ A modern, responsive food delivery web application built with **React 19**, **Re
 
 ## 🚀 Live Demo
 
-*(Add your deployed link here after deploying on Vercel/Netlify)*
+https://crave-dash-sable.vercel.app/
 
 ## ✨ Features
 

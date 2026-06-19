@@ -2,7 +2,9 @@
 
 A modern, responsive food delivery web application built with **React 19**, **Redux Toolkit**, and **Tailwind CSS**. Features a beautiful UI with dark mode, smooth animations, and a fully functional cart system.
 
-![Food Delivery Preview](https://via.placeholder.com/800x400?text=Food+Delivery+Website)
+## 🚀 Live Demo
+
+*(Add your deployed link here after deploying on Vercel/Netlify)*
 
 ## ✨ Features
 
@@ -25,9 +27,7 @@ A modern, responsive food delivery web application built with **React 19**, **Re
 - **Notifications**: React Toastify
 - **Icons**: React Icons
 
-## 🚀 Live Demo
 
-*(Add your deployed link here after deploying on Vercel/Netlify)*
 
 ## 📸 Screenshots
 
@@ -75,7 +75,7 @@ Persistent shopping cart
 🚀 Future Enhancements
 
 User Authentication
-Real Backend Integration
+Real Backend Integration            
 Payment Gateway
 Order Tracking
 Favorites / Wishlist

@@ -31,7 +31,7 @@ https://crave-dash-sable.vercel.app/
 
 ## 📸 Screenshots
 
-![Home Page](<img width="1896" height="871" alt="image" src="https://github.com/user-attachments/assets/de1efc6e-5dfd-4557-b8be-986cfe94456c" />
+![Home Page](https://github.com/Unas-123/CraveDash/blob/main/src/assets/Home%20page.png?raw=true
 )
 ![Cart Sidebar](https://via.placeholder.com/600x400?text=Cart+Sidebar)
 ![Dark Mode](https://via.placeholder.com/600x400?text=Dark+Mode)

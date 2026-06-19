@@ -33,7 +33,7 @@ https://crave-dash-sable.vercel.app/
 
 ![Home Page](https://github.com/Unas-123/CraveDash/blob/main/src/assets/Home%20page.png?raw=true
 )
-![Cart Sidebar](https://via.placeholder.com/600x400?text=Cart+Sidebar)
+![Cart Sidebar](https://github.com/Unas-123/CraveDash/blob/main/src/assets/cart%20sidebar.png?raw=true)
 ![Dark Mode](https://via.placeholder.com/600x400?text=Dark+Mode)
 
 ## 🛠️ Installation & Setup
